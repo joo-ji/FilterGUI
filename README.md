@@ -1,7 +1,12 @@
 
-# A Edge filter with a GUI
+# Live edge filter with a simple GUI
 
+## Live Demo
 ![Simple Demo](demo/demo.gif)
+
+## Output Images
+![Saved image](raw_image.jpg)
+![Saved image](filtered_image.jpg)
 
 ## Usage
 To run:
@@ -9,4 +14,4 @@ To run:
 python main.py
 ```
 
-Tested on Python 3.7 with OpenCV2 and wxPython
+Developed in Python 3.7 using OpenCV2 and wxPython
